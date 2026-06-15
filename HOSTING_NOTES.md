@@ -3,7 +3,7 @@
 ## What was recovered
 
 - Previous live site: https://www.strandrayan.bar/
-- New intended domain: https://www.strandrayan.com/
+- New intended domain: https://www.strandhotels.in/
 - Public source repo found: https://github.com/yashikanshul1326-blip/HOTEL
 - Local recovered copy: `index.html` in this folder
 - The Google share URL, live website, and GitHub `index.html` are the same current page.
@@ -35,13 +35,13 @@ The bare domain `https://strandrayan.bar/` is not serving the real site. It curr
 
 ## Launch on the new domain
 
-Use `www.strandrayan.com` as the GitHub Pages custom domain. The `CNAME` file in this repo already contains:
+Use `www.strandhotels.in` as the GitHub Pages custom domain. The `CNAME` file in this repo already contains:
 
 ```text
-www.strandrayan.com
+www.strandhotels.in
 ```
 
-In GoDaddy DNS for `strandrayan.com`, use:
+In GoDaddy DNS for `strandhotels.in`, use:
 
 - `www` CNAME -> `yadav25shivam.github.io`
 - `@` A -> `185.199.108.153`
