@@ -51,6 +51,8 @@ In GoDaddy DNS for `strandhotels.in`, use:
 
 After GitHub Pages is enabled, turn on `Enforce HTTPS` once GitHub finishes issuing the certificate.
 
+The website footer shows `info@strandhotels.in`. Add email hosting and MX records before using that address for real guest inquiries.
+
 ## Fastest way to host again
 
 ### Option A: GitHub Pages
